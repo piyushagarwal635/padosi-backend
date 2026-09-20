@@ -25,10 +25,10 @@ If you are a new developer joining the team and want to run this backend on your
 ### 2. Clone the Repository
 Open your terminal and clone the repository:
 
-`ash
+```bash
 git clone https://github.com/piyushagarwal635/padosi-backend.git
 cd padosi-backend
-`
+```
 
 ### 3. Database Setup
 Before running the application, you must configure your local database:
@@ -39,9 +39,9 @@ Before running the application, you must configure your local database:
 ### 4. Run the Application
 You can run the application directly using the Maven wrapper included in the project:
 
-`ash
+```bash
 ./mvnw spring-boot:run
-`
+```
 
 *Or simply open the project in IntelliJ IDEA, wait for it to sync, and run the main application class.*
 
