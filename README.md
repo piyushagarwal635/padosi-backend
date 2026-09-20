@@ -25,7 +25,7 @@ If you are a new developer joining the team and want to run this backend on your
 ### 2. Clone the Repository
 Open your terminal and clone the repository:
 \\\ash
-git clone <YOUR_BACKEND_GITHUB_REPO_URL>
+git clone https://github.com/piyushagarwal635/padosi-backend.git
 cd padosi-backend
 \\\
 
@@ -45,3 +45,4 @@ You can run the application directly using the Maven wrapper included in the pro
 The server will start by default on http://localhost:8080.
 
 Happy Coding! 🚀
+
